@@ -1,10 +1,13 @@
 # Парсер расписаний Крымского Федерального Университета
+[![Maintainability](https://img.shields.io/maintenance/yes/2024)](https://img.shields.io/maintenance/yes/2024)
+[![License](https://img.shields.io/github/license/destraty/cfuv-excel-schedule-parser)](https://github.com/destraty/cfuv-excel-schedule-parser/blob/main/LICENSE)
+
 Это относительно урезанная версия программы для понимания концепции работы, выявления багов и улучшения проекта.
 
 #Содержание
 1. [Установка и запуск на Windows](https://github.com/destraty/cfuv-excel-schedule-parser?tab=readme-ov-file#%D0%BD%D0%B0-windows)
 2. [Установка и запуск на Linux](https://github.com/destraty/cfuv-excel-schedule-parser?tab=readme-ov-file#%D0%BD%D0%B0-linux)
-3. [Описание запросов]()
+3. [Описание и примеры запросов](https://github.com/destraty/cfuv-excel-schedule-parser?tab=readme-ov-file#%D1%87%D1%82%D0%BE-%D0%BC%D0%BE%D0%B6%D0%B5%D1%82-%D1%8D%D1%82%D0%BE%D1%82-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80)
 # Установка и запуск
 ## На Windows
 Скачайте и установите ```Python 3.11.7```, если у вас все еще его нет [отсюда](https://www.python.org/downloads/release/python-3117/).
