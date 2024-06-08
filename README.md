@@ -1,6 +1,5 @@
 # Парсер расписаний Крымского Федерального Университета
 [![Maintainability](https://img.shields.io/maintenance/yes/2024)](https://img.shields.io/maintenance/yes/2024)
-[![License](https://img.shields.io/github/license/destraty/cfuv-excel-schedule-parser)](https://github.com/destraty/cfuv-excel-schedule-parser/blob/main/LICENSE)
 
 Это относительно урезанная версия программы для понимания концепции работы, выявления багов и улучшения проекта.
 
